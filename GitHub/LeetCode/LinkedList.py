@@ -57,3 +57,4 @@ res = no.swapPairs(head.next)
 while res:
     print(res.val)
     res = res.next
+###修改
