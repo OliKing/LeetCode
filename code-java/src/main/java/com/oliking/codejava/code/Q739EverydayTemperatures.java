@@ -1,8 +1,6 @@
 package com.oliking.codejava.code;
 
-import java.util.Arrays;
-
-public class EverydayTemperatures739 {
+public class Q739EverydayTemperatures {
 
 
 

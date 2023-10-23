@@ -9,5 +9,4 @@ public class CodeJavaApplication {
     public static void main(String[] args) {
         SpringApplication.run(CodeJavaApplication.class, args);
     }
-
 }
